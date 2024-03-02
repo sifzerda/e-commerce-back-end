@@ -76,11 +76,11 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 The author acknowledges and credits those who have contributed to this project, including:
 
-•	Provided Starter Code
-•	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
-•	Chee Ho Tai
-•	Pranita Shrestha
-•	Phil Loy 
+-	Provided Starter Code
+-	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
+-	Chee Ho Tai
+-	Pranita Shrestha
+-	Phil Loy 
 
 ## 10. License
 
