@@ -1,4 +1,4 @@
-# Object-Relational Mapping (ORM): E-Commerce Back End
+# Model-View-Controller (MVC) Challenge: Tech Blog
 
 ## Table of Contents
 
@@ -35,27 +35,13 @@ CODE EDITOR TERMINAL:
 - SOURCE db/schema.sql
 - Exit;
 - npm run seed
-- npm run watch
-
-INSOMNIA:
-
-<u>Categories: </u>
-- GET / POST categories: http://localhost:3001/api/categories
-- GET category by id / PUT / DELETE: http://localhost:3001/api/categories/[id]
-
-<u>Products: </u>
-- GET / POST products: http://localhost:3001/api/products
-- GET product by id / PUT / DELETE: http://localhost:3001/api/products/[id]
-
-<u>Tags: </u>
-- GET / POST tags: http://localhost:3001/api/tags
-- GET tag by id / PUT / DELETE: http://localhost:3001/api/tag/[id]
+- npm run watch or npm run start
 
 ## 5. Usage
 
-This is an API and back end code that can be used for a e-commerce site. It runs on an express server using Sequelize models that interact with a MySQL2 database.
+This is an API and full stack code that runs a tech related blog. It runs on an express server using Sequelize models that interact with a MySQL database.
 
-The user can make GET, PUT, POST, and DELETE calls in Insomnia or other API testing program. Calls can be made to retrieve and view the database items, by category, product or tag. Categories, products, and tags can be viewed, updated, added or deleted.
+The user can sign up for an account, to create and delete posts, and make commnets on posts. 
 
 ## 6. Support
 
@@ -76,7 +62,6 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 The author acknowledges and credits those who have contributed to this project, including:
 
--	Provided Starter Code
 -	https://git.bootcampcontent.com/Monash-University/MONU-VIRT-FSF-PT-11-2023-U-LOLC
 -	Chee Ho Tai
 -	Pranita Shrestha
